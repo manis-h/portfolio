@@ -83,8 +83,8 @@ console.log(scrollY)
       />
       </motion.div>
       <div className="col-lg-5 ">
-        <h1 className="text-center display-3 fw-bold">
- TAKE YOUR BUISNESS GLOBAL WITH US
+        <h1 className="text-center display-6 pt-lg-5 fw-bold">
+ HEY AM A FULL STACK WEB DEVELOPER THAT CAN HELP YOU TAKE YOUR BUISNESS ONLINE
         </h1>
       </div>
       </div>
@@ -155,16 +155,16 @@ console.log(scrollY)
       <h1 className="text-center">SAMPLE WORKS</h1>
     <div className="row justify-content-center gy-2">
       <div className="col-lg-6">
-      <img src="imgs/csection.png" className='w-100' alt="" />
+<a target={'_blank'} href=  "https://www.tradeimex.in/">      <img src="imgs/csection.png" className='w-100' alt="" /></a>
     
       </div>
       <div className="col-lg-6">
-      <img src="imgs/work1.png" className='w-100' alt="" />
-        
+<a target={'_blank'} href=  "https://www.usimportdata.com">      <img src="imgs/work1.png" className='w-100' alt="" />
+</a>
       </div>
       <div className="col-lg-6">
-      <img src="imgs/work2.png" className='w-100' alt="" />
-        
+    <a target={'_blank'} href=  "https://vietnam-importers.netlify.app/">  <img src="imgs/work2.png" className='w-100' alt="" />
+    </a>
       </div>
       </div>
     </div>
