@@ -215,6 +215,12 @@ console.log(scrollY)
       </div>
       
     </div>
+    <div className="container py-2">
+      CONTACT ME FOR YOUR PROJECT
+      <br />
+      <br />
+      <p> <a href="mailto:manishabc83@gmail.com">manishabc83@gmail.com </a></p>
+    </div>
     </>
 
   );
